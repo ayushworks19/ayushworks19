@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushworks19
-- 👀 I’m interested in Automating things.
+- 👀 I’m interested in Automating any processes available.
 - 🌱 I’m currently learning new frameworks for Java-Selenium.
 - 💞️ I’m looking to collaborate on Open source Testing projects.
 - 📫 How to reach me on my number 9681243741.
